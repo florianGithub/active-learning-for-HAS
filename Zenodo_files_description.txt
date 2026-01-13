@@ -1,0 +1,5 @@
+In this repository there are five Excel files, three Jupyter notebook files, and a zip archive containing Origin files. 
+
+The Full_catalytic_performance_data.xlsx file comprises all the experimental and computational catalytic data complied as a part of the research work titled "Active learning streamlines development of high performance catalysts for higher alcohol synthesis" carried out at the Advanced Catalysis Engineering group, ETHZ. The Source_data.xlsx file and .opju files contain the raw data used to create the display items in the manuscript.
+
+The repository contains three additional files "Modelling_Data_Phase_1.xlsx", "Modelling_Data_Phase_2.xlsx", "Modelling_Data_Phase_3.xlsx" which contain the curated data to run the Gaussian process -Bayesian Optimization algrotihm across three specific active learning Phases devised in this study. The python codes necessary to run the model are provided as Jupyter Notebook (.ipynb) files and are also available on GitHub in the link provided below.
